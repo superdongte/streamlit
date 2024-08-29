@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 타이틀 적용 예시
-st.title('이것은 타이틀 입니다!')
+st.title('서동준입니다. 배포 테스트합니다.')
 
 # 특수 이모티콘 삽입 예시
 # emoji: https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
